@@ -1,0 +1,8 @@
+{
+  "name": "ninou",
+  "version": "0.0.0",
+  "description": "ninou is ninou",
+  
+  "devtools_page": "devtools.html",
+  "manifest_version": 2
+}
